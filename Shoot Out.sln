@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanTweenAssembly", "LeanTweenAssembly.csproj", "{8dfaf6e9-bc58-ee29-2756-6f57756b5b00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{c74cb4a9-3244-097b-5203-fcb086b990be}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8dfaf6e9-bc58-ee29-2756-6f57756b5b00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8dfaf6e9-bc58-ee29-2756-6f57756b5b00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{c74cb4a9-3244-097b-5203-fcb086b990be}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{c74cb4a9-3244-097b-5203-fcb086b990be}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

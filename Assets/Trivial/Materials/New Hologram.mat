@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Hologram
+  m_Shader: {fileID: -6465566751694194690, guid: 034e6acfe7075894b8668a794da055af, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_3101cd3bd4d045b3a83ff7badba3e3da:
+        m_Texture: {fileID: 2800000, guid: 8b6838c3ba82d97469912142bb8bc3ee, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_66fb62186c0543c6b648168d303f6dcb:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_efcf2e33a7144b86bc5c3410eec99709:
+        m_Texture: {fileID: 2800000, guid: 840f051cf108ca5418103638f761bc52, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_13c78a116f094246b27f8cedd3790bc4: 0.75
+    - Vector1_385442d212a943849349b002370ef6fc: 0.5
+    - Vector1_46c24bb6c127443f82946e6d20c87fe6: 3
+    - Vector1_5bb28a433cc440f2ba638c8465311989: -0.1
+    - Vector1_654cae31175c435883b2b3d5e22f2622: 1
+    - Vector1_c1a39d2a437f4b2faad8cdf417c10bf8: 0.35
+    - Vector1_d2e663a63a384434ac22ef2e1e43f557: 20
+    - Vector1_f63884b9d04d46fd9f2cc03ddde3f9a5: 0
+    m_Colors:
+    - Color_1b0d79556cd3414dbeb98b71ed4281c4: {r: 0, g: 0.928565, b: 1, a: 0}
+    - Color_6d40c6b20b8c449780b2d1df17f553d2: {r: 0, g: 0.7692952, b: 1, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &4902588197907215803
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 4
